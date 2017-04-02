@@ -1,0 +1,2 @@
+﻿Man skriver ett test där man får ett misslyckad test efter det så skriver man kod som gör att testet blir lyckad.
+Tillslut refaktorerar man koden som man skrivit för att det ska se snygg ut.
